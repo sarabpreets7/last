@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'groups',
     'posts',
     'accounts',
-    
+    'bootstrap3',
     'humanize',
 ]
 
